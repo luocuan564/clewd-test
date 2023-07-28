@@ -78,7 +78,7 @@ const Settings = {
     RemoveFirstH : true
 };
 
-const Ip = process.env.port ? '0.0.0.0' : '127.0.0.1';
+const Ip = '0.0.0.0';
 const Port = 8444;
 
 /***********************/
